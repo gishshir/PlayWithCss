@@ -1,0 +1,103 @@
+
+.cssDirLtr {
+	dir: ltr;
+}
+.cssDirRtl {
+	dir: rTl;
+}
+.cssOverflowVisible {
+	overflow: visible;
+}
+.cssOverflowAuto {
+	overflow: auto;
+}
+.cssOverflowScroll {
+	overflow: scroll;
+}
+.cssOverflowHidden {
+	overflow: hidden;
+}
+.cssBackgroundAttachmentScroll {
+	background-attachment: scroll;
+}
+.cssBackgroundAttachmentFixed {
+	background-attachment: fixed;
+}
+.cssBackgroundRepeat {
+	background-repeat: repeat;
+}
+.cssBackgroundRepeatX {
+	background-repeat: repeat-x;
+}
+.cssBackgroundRepeatY {
+	background-repeat: repeat-y;
+}
+.cssBackgroundNoRepeat {
+	background-repeat: no-repeat;
+}
+.cssVisible {
+	visibility:visible;
+}
+.cssHidden {
+	visibility:hidden;
+}
+.cssDisplayNone {
+	display: none;
+}
+.cssDisplayBlock {
+	display: block;
+}
+.cssDisplayInline {
+	display: inline;
+}
+.cssDisplayListItem {
+	display: list-item;
+}
+.cssPositionStatic {
+	position: static;
+}
+.cssPositionAbsolute {
+	position: absolute;
+}
+.cssPositionRelative {
+	position: relative;
+}
+.cssPositionFixed {
+	position: fixed;
+}
+.cssFloatLeft {
+	float: left;
+}
+.cssFloatRight {
+	float: right;
+}
+.cssFloatNone {
+	float: none;
+}
+.cssClearLeft {
+	clear: left;
+}
+.cssClearRight {
+	clear: right;
+}
+.cssClearNone {
+	clear: none;
+}
+.cssTableLayoutFixed {
+	table-layout: fixed;
+}
+.cssTableLayoutAuto {
+	table-layout: auto;
+}
+.cssBorderCollapseCollapse{
+	border-collapse: collapse;
+}
+.cssBorderCollapseSeparate {
+	border-collapse: separate;
+}
+.cssEmptyCellsShow {
+	empty-cells: show;
+}
+.cssEmptyCellsHide {
+	empty-cells: hide;
+}

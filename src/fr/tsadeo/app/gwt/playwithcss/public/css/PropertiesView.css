@@ -1,0 +1,149 @@
+body {
+	background-color: #BD8D46;
+	color: #4C1B1B;
+}
+
+.divParameterView .panel {
+	border-style: solid;
+	border-color:  #4C1B1B;	
+	border-radius: 30px;
+	margin: 10px;
+	padding: 10px;
+	width: 600px;
+}
+
+.divParameterView .stackPanel {
+	background: transparent;
+	margin: 20px;	
+}
+.divParameterView .innerStackPanel {
+	background: transparent;
+	margin: 20px;
+	width: 350px;
+}
+.cssProperties .innerStackPanel {
+    margin: 0px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.gwt-TextBox {
+	height: 10px;
+}
+.barButton {
+	text-align: right;
+}
+.barButton .reinit {
+ 	background-image: url("../icones/reinit.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 42px;
+    width: 42px;
+    border-radius: 3px 3px 3px 3px;
+    cursor: pointer;
+}
+.barButton .edit {
+ 	background-image: url("../icones/edit.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 42px;
+    width: 42px;
+    border-radius: 3px 3px 3px 3px;
+    cursor: pointer;
+}
+.gwt-DialogBox .dialogMiddleCenter {
+    background: none repeat scroll 0 0 #FFCC00;
+    padding: 3px;
+}
+.gwt-StackPanel .gwt-StackPanelItem div {
+	color: #4C1B1B;
+}
+.gwt-StackPanel .gwt-StackPanelContent {
+	border: 1px solid #BBB;
+	border-bottom: 0px;
+	background: transparent;
+	padding: 2px 2px 10px 5px;
+}
+.panel .gwt-TabPanelBottom {
+	height: 300px;
+	border: none;
+	width: 100%;
+}
+.panel .workingSet {
+
+	height: 400px;
+	width: 600px;
+	position: relative;
+    top: 0; left: 0px;
+}
+
+
+.panel .tabPanel {
+
+	height: 200px;
+	width: 300px;
+}
+
+
+.panel .gwt-TabBar {
+  background: transparent;
+}
+
+
+.tabPanel .cssProperties {
+	margin: 5px;
+}
+
+.tabPanel .cssProperties .barButton {
+	margin: 5px;
+}
+
+.panelRadioButtons {
+	margin: 0px 10px;
+	width: 100px;
+    border-right-width:1px;
+    border-right-style:solid;
+    border-right-color:#8E8E8E;
+}
+
+.cssProperties {
+	padding: 10px;
+	height: 100%;
+	 width: 100%;
+}
+
+.cssProperties .panelContent {
+}
+
+.cssProperties .panelTextArea {
+	margin: 0px 10px;
+	width: 200px;
+	height: 130px;
+}
+
+.cssProperties .panelTextBoxes {
+	margin: 0px 10px;
+}
+.cssProperties .panelTextBox {
+	width: 150px;
+	margin: 0px 10px;
+}
+
+.cssProperties .panelTextBox .label {
+	width: 70px;
+	float: left;
+}
+.cssProperties .box {
+	width: 80px;
+	float: right;
+	position: relative;
+	bottom: 5px;
+	margin-left: 20px;
+}
+
+.cssProperties .l120 {
+	width: 120px;
+}
+
+.cssProperties .marge10 {
+	margin: 10px;
+}
